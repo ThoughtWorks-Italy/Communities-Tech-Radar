@@ -15,13 +15,14 @@ To follow this process you need to log in with a gmail account
 
 Schedule an event with your community and set around 35/45 minutes for the Tech Radar.
 The agenda could look like this:
-5 minutes presentation of the Tech Radar 
-10 mins to collect the blips - optional if you haven’t done it before the event
-30 mins for voting and discussion
-Another option is to split the activity on the Tech Radar in 2 events, a 5 mins presentation on the first one and a 30 mins discussion on the second one:
-1st event: 5 mins presentation of the Tech Tadar and of the form to collect blips 
-Between event 1 and 2: Share the form with the community 
-2nd event: 30 mins for voting and discussing the results
+- 5 minutes presentation of the Tech Radar
+- 10 minutes to collect the blips - optional if you haven’t done it before the event
+- 30 minutes for voting and discussion
+
+Another option is to split the activity on the Tech Radar in 2 events a 5 mins presentation on the first one and a 30 mins discussion on the second one:
+- 1st event: 5 mins presentation of the Tech Radar and of the form to collect blips
+- Between event 1 and 2: Share the form with the community
+- 2nd event: 30 mins for voting and discussing the results
 
 #### STEP 2: Register the upcoming event on GitHub
 
