@@ -4,7 +4,7 @@ Let's build together the first Italian Communities' Tech Radar!
 
 ## INSTRUCTIONS TO RUN YOUR COMMUNITY TECH RADAR
 
-Deadline to be part of the Italian Community Radar: 31st of October
+Deadline to be part of the Italian Community Radar: 20th of November
 All the process to build the Italian Community Tech Radar can be monitored on [https://github.com/TWItaly/Communities-Tech-Radar](https://github.com/TWItaly/Communities-Tech-Radar).
 
 This repository is open to collaboration, if you want to contribute with enhancements, fixes, or add-ons, please open a pull request on GitHub.
