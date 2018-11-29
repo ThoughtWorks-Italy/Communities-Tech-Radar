@@ -2,6 +2,12 @@
 
 Let's build together the first Italian Communities' Tech Radar!
 
+## Round 1: Codemotion Milan 2018
+The **Italian Communities BYOR (Round 1)**  has been presented to the Community Managers Lunch at [Codemotion Milan 2018](https://milan2018.codemotionworld.com).  
+To access the **radar** clik [here](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1VgCs0gTiBQz0rInlOofHDyyIrmGkM5_t3gqIOrQLLk0%2Fedit%3Fusp%3Dsharing). To know more about the event, you can access the **slides** [here](https://github.com/TWItaly/Communities-Tech-Radar/blob/master/Rounds/Round%201%20-%20Codemotion%20Milan%202018.pdf)
+
+
+
 ## INSTRUCTIONS TO RUN YOUR COMMUNITY TECH RADAR
 
 Deadline to be part of the Italian Community Radar: 20th of November
