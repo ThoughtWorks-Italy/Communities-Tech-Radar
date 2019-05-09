@@ -9,14 +9,14 @@ The **Italian Communities BYOR (Round 1)**  has been presented to the Community 
 
 **229 technologists** submitted **530 blips** about technologies used in production, thanks to the effort of **15 tech communities** across **11 cities**.
 
-To access the **radar** click [here](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1VgCs0gTiBQz0rInlOofHDyyIrmGkM5_t3gqIOrQLLk0%2Fedit%3Fusp%3Dsharing). To know more about the event, you can access the **slides** [here](https://github.com/TWItaly/Communities-Tech-Radar/blob/master/Rounds/Round%201%20-%20Codemotion%20Milan%202018.pdf)
+To access the **radar** click [here](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1VgCs0gTiBQz0rInlOofHDyyIrmGkM5_t3gqIOrQLLk0%2Fedit%3Fusp%3Dsharing). To know more about the event, you can access the **slides** [here](https://github.com/ThoughtWorks-Italy/Communities-Tech-Radar/blob/master/Rounds/Round%201%20-%20Codemotion%20Milan%202018.pdf)
 
 ## Round 2: Codemotion Rome 2019
 To partecipate to round 2 please submit/update your community radar before March 2019.
 
 ## INSTRUCTIONS TO RUN YOUR COMMUNITY TECH RADAR
 
-All the process to build the Italian Community Tech Radar can be monitored on [https://github.com/TWItaly/Communities-Tech-Radar](https://github.com/TWItaly/Communities-Tech-Radar).
+All the process to build the Italian Community Tech Radar can be monitored on [https://github.com/ThoughtWorks-Italy/Communities-Tech-Radar](https://github.com/ThoughtWorks-Italy/Communities-Tech-Radar).
 
 This repository is open to collaboration, if you want to contribute with enhancements, fixes, or add-ons, please open a pull request on GitHub.
 
@@ -90,4 +90,4 @@ When you are ready, click on the share button in your Google Sheet, copy the lin
 
 The information entered in this form will be registered in GitHub under the open issue titled like "`<your community name> (<your city>)`" as a new comment containing the other data collected from the form.
 
-The pdf and the interactive website for your Community Tech Radar will be available on [https://github.com/TWItaly/Communities-Tech-Radar](https://github.com/TWItaly/Communities-Tech-Radar) (it may take a while...) with all the links to data, pdf and HTML version stored in a new comment to the issue titled like "`<your community name> (<your city>)`".
+The pdf and the interactive website for your Community Tech Radar will be available on [https://github.com/ThoughtWorks-Italy/Communities-Tech-Radar](https://github.com/ThoughtWorks-Italy/Communities-Tech-Radar) (it may take a while...) with all the links to data, pdf and HTML version stored in a new comment to the issue titled like "`<your community name> (<your city>)`".
