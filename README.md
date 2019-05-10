@@ -12,7 +12,15 @@ The **Italian Communities BYOR (Round 1)**  has been presented to the Community 
 To access the **radar** click [here](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1VgCs0gTiBQz0rInlOofHDyyIrmGkM5_t3gqIOrQLLk0%2Fedit%3Fusp%3Dsharing). To know more about the event, you can access the **slides** [here](https://github.com/ThoughtWorks-Italy/Communities-Tech-Radar/blob/master/Rounds/Round%201%20-%20Codemotion%20Milan%202018.pdf)
 
 ## Round 2: Codemotion Rome 2019
-To partecipate to round 2 please submit/update your community radar before March 2019.
+The **Italian Communities BYOR (Round 2)**  has been presented to the Community Managers at [Codemotion Rome 2019](https://events.codemotion.com/conferences/rome/2019/).
+
+**470 technologists** submitted **2700 blips** about technologies used in production, thanks to the effort of **16 tech communities** across **3 cities** and to **Codemotion Rome's attendees**.
+
+To access the **radar** click [here](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F10C1R-X0i_R5QBZW4Wf1J2cJ5RKNdVVNHV7PfaVIl0yU%2Fedit%3Fusp%3Dsharing). To know more about the event, you can access the **slides** [here](https://github.com/ThoughtWorks-Italy/Communities-Tech-Radar/blob/master/Rounds/Round%202%20-%20Codemotion%20Rome%202019.pdf)
+
+## Round 3: Codemotion Milan 2019
+To partecipate to round 3, please submit/update your community radar before October 2019.
+
 
 ## INSTRUCTIONS TO RUN YOUR COMMUNITY TECH RADAR
 
